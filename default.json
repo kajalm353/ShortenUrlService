@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "jtsAuth_jwtPrivateKey_local",
+    "db": "mongodb://localhost:27017/shorten_url_service",
+    "baseUrl": "http://localhost:4040"
+}
